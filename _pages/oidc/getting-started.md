@@ -79,6 +79,6 @@ Production URI:
 
 ### Example Application
 
-The Login.gov team has created an example client to speed up your development, all open source in the public domain: [identity-oidc-sinatra](https://github.com/18F/identity-oidc-sinatra){:class="usa-link--external"}.
+The Login.gov team has created an example client to speed up your development, all open source in the public  domain: [identity-oidc-sinatra](https://github.com/18F/identity-oidc-sinatra){:class="usa-link--external"}.
 
 [Next step: Authorization]({{ site.baseurl }}/oidc/authorization/){:class="margin-top-4"}
